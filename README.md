@@ -142,8 +142,8 @@ int main() {
 
 
 ## Output:
-<img width="800" height="301" alt="image" src="https://github.com/user-attachments/assets/6ddca073-8520-4846-861f-68c2a0889286" />
 
+<img width="1920" height="790" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/7fdf153c-afde-4fa5-923e-f290b8632f1f" />
 
 
 ## Result:
